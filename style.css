@@ -1,6 +1,14 @@
-.about{
-    background-color: red;
-    padding: 10px;
-    border-radius: 10px;
+.Welcome{
+    background-color: rgb(234, 238, 238);
+    text-align: center;
+    border: 2px solid rgb(179, 47, 255);
 
+}
+.mission{
+    background-color: rgb(175, 174, 173);
+    border: 2px dotted blue;
+    border-radius: 30px;
+}
+.Welcome{
+    text-align: center;
 }
