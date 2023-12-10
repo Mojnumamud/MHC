@@ -9,6 +9,13 @@
     border: 2px dotted blue;
     border-radius: 30px;
 }
-.Welcome{
-    text-align: center;
+.about{
+    border: 2px solid blue;
+    background-color: azure;
+
+}
+.BP_Digital{
+    background-color: cadetblue;
+    border: 3px solid red;
+    padding: 25px;
 }
