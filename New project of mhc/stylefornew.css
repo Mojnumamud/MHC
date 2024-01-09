@@ -10,6 +10,8 @@
     box-shadow: 0px 0px 10px greenyellow;
 
     background-image: url(Webpic/background\ head.jpg);
- 
-
+    h1{
+        color: white;
+        
+    }
 }
