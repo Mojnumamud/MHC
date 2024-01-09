@@ -1,7 +1,10 @@
 .Welcome{
     background-color: rgb(234, 238, 238);
+    background-size: auto;
+    background-repeat: no-repeat;
     text-align: center;
     border: 2px solid rgb(179, 47, 255);
+  
 
 }
 .mission{
